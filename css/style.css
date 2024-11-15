@@ -3153,7 +3153,7 @@ margin: 10px 0px 10px 20px;
 .social-icons.has-bg li a:hover{color:#fff;}
 .social-icons.social-light a {	color:#fff;}
 .social-icons.social-light.has-bg li a:hover{	color:#777;}
-.social-icons.social-dark a {	color:#262423000;}
+.social-icons.social-dark a {	color:#262423;}
 .social-icons.social-dark a:hover {color:#fff;}
 .social-icons.social-dark.has-bg li a:hover{	color:#777;}
 
@@ -4182,6 +4182,7 @@ font-weight: 400;
 
 .header-fixed .color-fill.main-bar {
     background:#141b1f;
+    /* background: #e8e5da; */
 }
 /*======================================
 17. MAIN BAR ( place logo & main-navigation )
@@ -4943,7 +4944,7 @@ top:0px;
 	left:0px;
 	width:100%;
 	padding:30px;
-	border:10px solid #d5dd02
+	border:10px solid #c31c34; /*breadcrumb color*/
 }
 
 .wt-bnr-inr-entry .banner-title-outer .banner-title-name:before{
